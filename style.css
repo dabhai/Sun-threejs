@@ -1,0 +1,10 @@
+#Controller {
+    width: 100%;
+}
+
+#slidervalue {
+    font-size: 12px;
+    background-color: blue;
+    color: black;
+    border: solid blue 1px;
+}
